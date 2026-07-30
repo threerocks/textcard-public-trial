@@ -1,0 +1,9 @@
+{
+  "asset": "og.png",
+  "sha256": "416998b4bc4815fbf91c68aaf9190444672f5916cd98872afc60feef3ace406f",
+  "digitalSourceType": "trainedAlgorithmicMedia",
+  "softwareAgent": "gpt-image 2.0",
+  "claimGenerator": "OpenAI Media Service API",
+  "c2paPresent": true,
+  "bytesModified": false
+}

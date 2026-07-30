@@ -1,0 +1,10 @@
+{
+  "asset": "og.png",
+  "audit": "C2PA-preserving read-only audit",
+  "privacyFieldsFound": [],
+  "embeddedGps": false,
+  "cameraOrDeviceFields": false,
+  "localPathOrAccountFields": false,
+  "bytesModified": false,
+  "note": "The generated-asset sanitizer refused byte modification because a C2PA/JUMBF manifest is present and cannot be re-signed. The original manifest was preserved."
+}

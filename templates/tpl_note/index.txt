@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+3:I[1876,[],""]
+4:I[2722,[],""]
+6:I[8369,[],"OutletBoundary"]
+8:I[988,[],"AsyncMetadataOutlet"]
+a:I[8369,[],"ViewportBoundary"]
+c:I[8369,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[3904,[],""]
+:HL["/textcard-public-trial/_next/static/css/314360225a71954f.css","style"]
+2:T563,
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/noto-sans-sc-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/noto-sans-sc-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/noto-serif-sc-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ZCOOL XiaoWei';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/zcool-xiaowei-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ZCOOL QingKe HuangYou';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/zcool-qingke-huangyou-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Ma Shan Zheng';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/ma-shan-zheng-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/textcard-public-trial/fonts/lxgw-wenkai-400.woff2') format('woff2');
+}0:{"P":null,"b":"f8C6EwkkcHvlvceFGUTru","p":"/textcard-public-trial","c":["","templates","tpl_note",""],"i":false,"f":[[["",{"children":["templates",{"children":[["id","tpl_note","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/textcard-public-trial/_next/static/css/314360225a71954f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["templates",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","tpl_note","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[5301,["301","static/chunks/301-9c02cb27e013d34f.js","375","static/chunks/375-3c7be53fa37fbd0a.js","145","static/chunks/145-afeea107c7c06802.js","916","static/chunks/app/templates/%5Bid%5D/page-bdd1acb92192f930.js"],""]
+11:I[2835,["301","static/chunks/301-9c02cb27e013d34f.js","375","static/chunks/375-3c7be53fa37fbd0a.js","145","static/chunks/145-afeea107c7c06802.js","916","static/chunks/app/templates/%5Bid%5D/page-bdd1acb92192f930.js"],"TemplateDetail"]
+5:["$","main",null,{"style":{"maxWidth":1000,"margin":"0 auto","padding":"28px 24px 60px"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"CreativeWork\",\"name\":\"便签贴纸\",\"about\":\"3:4 阅读卡文字排版卡片模板\",\"url\":\"https://threerocks.github.io/textcard-public-trial/templates/tpl_note\"}"}}],["$","$L10",null,{"href":"/templates","style":{"fontSize":13,"color":"#999","textDecoration":"none"},"children":"← 模板墙"}],["$","div",null,{"style":{"height":18}}],["$","$L11",null,{"templateId":"tpl_note"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"便签贴纸 · 3:4 阅读卡模板 | textcard · Textcard"}],["$","meta","1",{"name":"description","content":"「便签贴纸」文字排版卡片模板（3:4 阅读卡）。字符级精细排版，可换 palette、字级样式不丢，Canvas 确定性出图。"}],["$","link","2",{"rel":"canonical","href":"https://threerocks.github.io/textcard-public-trial/templates/tpl_note/"}],["$","meta","3",{"property":"og:title","content":"便签贴纸 · 3:4 阅读卡模板 | textcard"}],["$","meta","4",{"property":"og:description","content":"「便签贴纸」文字排版卡片模板（3:4 阅读卡）。字符级精细排版，可换 palette、字级样式不丢，Canvas 确定性出图。"}],["$","meta","5",{"property":"og:image","content":"https://threerocks.github.io/textcard-public-trial/previews/tpl_note.png"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"便签贴纸 · 3:4 阅读卡模板 | textcard"}],["$","meta","8",{"name":"twitter:description","content":"「便签贴纸」文字排版卡片模板（3:4 阅读卡）。字符级精细排版，可换 palette、字级样式不丢，Canvas 确定性出图。"}],["$","meta","9",{"name":"twitter:image","content":"https://threerocks.github.io/textcard-public-trial/previews/tpl_note.png"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

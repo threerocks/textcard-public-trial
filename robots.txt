@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /textcard-public-trial/editor
+Disallow: /textcard-public-trial/my
+
+Sitemap: https://threerocks.github.io/textcard-public-trial/sitemap.xml
